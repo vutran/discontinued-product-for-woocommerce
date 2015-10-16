@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: vutran
-Donate link: http://example.com/
+Donate link: http://vu-tran.com/
 Tags: woocommerce, e-commerce, ecommerce, shopping, discontinued, products, inventory
 Requires at least: 3.0.1
 Tested up to: 4.3.1
