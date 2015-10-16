@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Discontinued Products for WooCommerce ===
 Contributors: vutran
 Donate link: http://vu-tran.com/
 Tags: woocommerce, e-commerce, ecommerce, shopping, discontinued, products, inventory
